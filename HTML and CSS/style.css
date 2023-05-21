@@ -1,0 +1,18 @@
+h1 {
+font-size: 42px;
+text-align: left;
+}
+p{
+font-family: Times New Roman;
+font-size: 15pt;
+text-align: left;
+}
+
+p.page {
+color: blue;
+}
+
+ol {
+color: green;
+}
+
